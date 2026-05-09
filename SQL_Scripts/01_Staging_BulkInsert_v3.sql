@@ -87,4 +87,4 @@ SELECT COUNT(*) AS [CustomerBehavior - lignes chargées] FROM stg_CustomerBehavi
 -- Attendu : 350
 GO
 
-PRINT '✅ Staging chargé - Passez au script 02';
+PRINT ' Staging chargé - Passez au script 02';
