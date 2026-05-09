@@ -85,4 +85,4 @@ SELECT 'Dim_Product',               COUNT(*)              FROM Dim_Product   UNI
 SELECT 'Dim_Customer',              COUNT(*)              FROM Dim_Customer;
 GO
 
-PRINT '✅ Dimensions OK — Exécutez maintenant 03_Load_FactSales.sql';
+PRINT ' Dimensions OK — Exécutez maintenant 03_Load_FactSales.sql';
