@@ -56,4 +56,4 @@ JOIN Dim_Geography g ON f.geo_id = g.geo_id
 JOIN Dim_Ship sh ON f.ship_id = sh.ship_id;
 GO
 
-PRINT '✅ DW_Ecommerce prêt ! Connectez Power BI maintenant.';
+PRINT ' DW_Ecommerce prêt ! Connectez Power BI maintenant.';
