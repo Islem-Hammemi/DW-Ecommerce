@@ -18,4 +18,4 @@ BEGIN
 END
 GO
 SELECT COUNT(*) AS total_dates FROM Dim_Date;
-PRINT '✅ Dim_Date peuplée';
+PRINT ' Dim_Date peuplée';
